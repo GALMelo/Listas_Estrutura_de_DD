@@ -28,8 +28,8 @@ def eh_palindromo(texto):
         return "Não é palindromo"
 
 
-print(eh_palindromo("E até o papa poeta é"))   # É palíndromo
-print(eh_palindromo("Amo Omã. Se Roma me tem amores, amo Omã!"))  # É palíndromo
-print(eh_palindromo("Me vê se a panela da moça é de aço, Madalena Paes, e vem."))  # É palíndromo
-print(eh_palindromo("A base do teto desaba."))  # É palíndromo
-print(eh_palindromo("A base da casa desaba."))  # Náo é palíndromo
+print(eh_palindromo("E até o papa poeta é")) 
+print(eh_palindromo("Amo Omã. Se Roma me tem amores, amo Omã!"))  
+print(eh_palindromo("Me vê se a panela da moça é de aço, Madalena Paes, e vem."))  
+print(eh_palindromo("A base do teto desaba.")) 
+print(eh_palindromo("A base da casa desaba."))
